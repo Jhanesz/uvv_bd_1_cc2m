@@ -1,0 +1,13 @@
+-- crição do usuario
+CREATE user 'jhanesz'@'localhost' identified by '123';
+
+-- criação  da schema elmasri
+CREATE SCHEMA elmasri 
+-- codigos pedidos pelo professor como padrões
+CHARACTER SET  utf8mb4
+COLLATE  utf8mb4_unicode_ci;
+
+-- privilégios do usuario e conexão ao banco de dados 
+
+GRANT all privileges uvv.* from 'jhanesz';
+system mysql -u jhanesz -p;
