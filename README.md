@@ -6,4 +6,4 @@ Pset é um trabalho da matéria de design e desenvolvimento de banco de dados, d
 
 ## dupla
 
-Guilherme Araujo Lopes, Github=https://github.com/GuiAralopes, Turma=CC2M.
+[Guilherme Araujo Lopes](https://github.com/GuiAralopes), Turma:CC2M.
